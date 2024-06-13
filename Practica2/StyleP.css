@@ -1,0 +1,43 @@
+body
+{
+	
+	background-image: url('carro.jpg');
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #333;
+}
+header, footer
+{
+            background-color: gray;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+}
+h2, p 
+{
+		background-color: grey;
+		color: black;
+        padding: 10px;
+        text-align: center;
+}
+
+nav ul 
+{
+        list-style-type: none;
+        padding: 0;
+        text-align: center;
+}
+Table, li
+{
+			list-style-type: none;
+			color: violet;
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 10px;
+            text-align: center;
+}  
+.video 
+{
+text-align: center;
+}
